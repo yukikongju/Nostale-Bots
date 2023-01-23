@@ -3,6 +3,6 @@ torchvision
 torchaudio
 matplotlib
 numpy
-cv2
+opencv-python
 pyautogui
 ipywidgets

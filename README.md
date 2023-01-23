@@ -3,7 +3,14 @@
 Disclaimer: This repository has been made for **learning purposes**. Please 
 don't use these bots in the game.
 
-## Understanding How the Bots work
+## Requirements
+
+```
+pip install -r requirements.txt --user
+python -m notebook
+```
+
+## Understanding How the Bots Work
 
 We will use [yolov7](https://github.com/WongKinYiu/yolov7) for object detection.
 To do so, we will need to create and annotate our dataset using either
@@ -15,14 +22,18 @@ what command to execute. We will accomplish this task using [pyautogui](https://
 
 ## Meet the Bots
 
-Bots Implemented: 
-- [ ] Pii Pod Bot: attack Pii Pod tree automatically
 
 Mini-games bots:
 - [ ] Woodcutting
 - [ ] Rock Mining
 - [ ] Fishing Pond
 - [ ] Chicken Shooting
+
+AoE/PvE bots:
+- [ ] Pii Pod Bot: attack Pii Pod tree automatically
+
+
+
 
 **Pii Pod Bot**
 
