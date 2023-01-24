@@ -33,7 +33,11 @@ AoE/PvE bots:
 - [ ] Pii Pod Bot: attack Pii Pod tree automatically
 
 
+## Making the Bots
 
+**Rock Mining**
+
+The labeled dataset can be found [here](https://universe.roboflow.com/nostale-rock-mining/nostale-rock-mining)
 
 **Pii Pod Bot**
 

@@ -10,7 +10,7 @@
     - [X] Test it with dummy data
 - [ ] Gather Training Data with pyautogui 
     - [ ] Pond
-    - [ ] Rock
+    - [ ] Rock Mining
     - [ ] Pii Pod
 - [ ] Label the data using ImgLabel
 - [ ] Train the model using transfer learning
@@ -18,6 +18,16 @@
 - [ ] Create yolov7 screen to view what the bot does
 - [ ] Tell the bot what commands to do from object detection
 - [ ] Play the game
+
+## Making the Bot
+
+**Rock Mining Mini-game**
+
+- [ ] Yellow
+- [ ] Green
+- [ ] Blue
+- [ ] Red
+- [ ] Purple
 
 
 ## Ressources
