@@ -6,12 +6,16 @@
 
 ## Todos
 
-- [ ] Download yolov5 or yolov7 
-    - [ ] Test it with dummy data
-- [ ] Gather Training Data with pyautogui
+- [X] Download yolov5 or yolov7 
+    - [X] Test it with dummy data
+- [ ] Gather Training Data with pyautogui 
+    - [ ] Pond
+    - [ ] Rock
+    - [ ] Pii Pod
 - [ ] Label the data using ImgLabel
 - [ ] Train the model using transfer learning
     - [ ] Configure `hyperparameters.yml` to not flip the images during training
+- [ ] Create yolov7 screen to view what the bot does
 - [ ] Tell the bot what commands to do from object detection
 - [ ] Play the game
 
