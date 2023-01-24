@@ -21,4 +21,5 @@
 - [Nicholas Renotte - Object Detection for Games](https://www.youtube.com/watch?v=0efnQCHbsyE)
 - [Clarity Coders - AI Plays Toadled](https://www.youtube.com/watch?v=aNWvfF6TLlg)
 - [Load YOLOv7 - Notebook](https://colab.research.google.com/drive/1nKoC-_areXmc_20Xn7z6kcqHEKU7SJsX#scrollTo=2S577j74Qcqa)
+- [Loading Dataset](https://towardsdatascience.com/yolov7-a-deep-dive-into-the-current-state-of-the-art-for-object-detection-ce3ffedeeaeb)
 
