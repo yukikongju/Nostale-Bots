@@ -45,6 +45,15 @@ Wiggler colors:
   3. Calculate time before hitting bushtail
 - Attempt 3: using reinforcement learning
 
+**Wood Chopper**
+
+- log color: (81, 150, 174), (73, 111, 115)
+- rolling planche: (130, 55, 9)
+- center color: (60, 43, 15), true: (159, 106, 48)
+- bomb: 
+- yellow: (250, 211, 0)
+
+
 
 ## Ressources
 
