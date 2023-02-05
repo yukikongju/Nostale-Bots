@@ -8,6 +8,17 @@
 
 Yolov7 requires a GPU to be trained, so train the model on Google Colab to get a free GPU
 
+## The bots
+
+Mini-games bots:
+- [ ] Woodcutting
+- [ ] Rock Mining
+- [ ] Fishing Pond
+- [ ] Chicken Shooting
+
+AoE/PvE bots:
+- [ ] Pii Pod Bot: attack Pii Pod tree automatically
+
 
 ## Todos
 
@@ -53,7 +64,11 @@ Wiggler colors:
 - bomb: 
 - yellow: (250, 211, 0)
 
+- Attempt 1: check middle chopping board pixel 
+  + problem: might miss because of timing
+- Attempt 2: check block of cell
 
+[image color checker](https://imagecolorpicker.com/)
 
 ## Ressources
 
