@@ -41,5 +41,7 @@ The labeled dataset can be found [here](https://universe.roboflow.com/nostale-ro
 
 **Pii Pod Bot**
 
+## Clicking Mechanism
 
-
+We want to simulate human clicking: when we cast a spell, we tend to 
+click 2-3 times
